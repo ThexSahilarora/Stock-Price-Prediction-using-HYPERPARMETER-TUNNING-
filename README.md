@@ -62,14 +62,13 @@ This helped in selecting the best combination of model parameters to achieve opt
 
 ## 📈 Model Performance
 
-Best Model: (Write your best model name)
-
 Test R2 Score: (0.8024)
 Root Mean Squared Error (RMSE): (2.0772)
 
 ---
 
 ## 📊 Evaluation Metrics Used
+
 - R2 Score
 - Root Mean Squared Error (RMSE)
 
